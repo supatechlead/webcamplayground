@@ -1,4 +1,5 @@
-import WebcamVideo from "./components/WebcamVideo_1";
+// import WebcamVideo from "./components/WebcamVideo_1";
+import WebcamVideo from "./components/WebcamVideo_2";
 
 function App() {
   return (
